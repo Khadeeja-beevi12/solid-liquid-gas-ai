@@ -1,0 +1,152 @@
+material,state
+iron nail,solid
+steel plate,solid
+gold ring,solid
+silver coin,solid
+copper wire,solid
+wooden table,solid
+wooden stick,solid
+pebble,solid
+brick wall,solid
+glass bottle,solid
+plastic bottle,solid
+rubber ball,solid
+paper plate,solid
+notebook,solid
+pencil box,solid
+school bag,solid
+toy block,solid
+candy,solid
+biscuit,solid
+cookie,solid
+apple,solid
+banana,solid
+carrot,solid
+potato,solid
+wooden door,solid
+steel spoon,solid
+iron box,solid
+plastic toy,solid
+chalk piece,solid
+tile,solid
+towel,solid
+shirt,solid
+shoe,solid
+tyre,solid
+table,solid
+chair,solid
+bed,solid
+hammer,solid
+scissors,solid
+bat,solid
+ruler,solid
+stick,solid
+rope,solid
+bag,solid
+box,solid
+ball,solid
+toy car,solid
+cake,solid
+bread slice,solid
+mud brick,solid
+ice block,solid
+frozen water,solid
+iceberg,solid
+glacier,solid
+icicle,solid
+metal,solid
+stone wall,solid
+cup,solid
+plate,solid
+bucket,solid
+window glass,solid
+diamond ring,solid
+orange juice,liquid
+apple juice,liquid
+mango juice,liquid
+cold coffee,liquid
+green tea,liquid
+black tea,liquid
+rose water,liquid
+soda water,liquid
+mineral water,liquid
+drinking water,liquid
+river water,liquid
+tap water,liquid
+lake water,liquid
+salt water,liquid
+sugar water,liquid
+baby oil,liquid
+olive oil,liquid
+mustard oil,liquid
+coconut oil,liquid
+sunflower oil,liquid
+engine oil,liquid
+hair oil,liquid
+lemon water,liquid
+buttermilk,liquid
+cow milk,liquid
+almond milk,liquid
+hand wash,liquid
+dish wash liquid,liquid
+paint,liquid
+nail polish,liquid
+medicine syrup,liquid
+cough syrup,liquid
+tomato juice,liquid
+fruit juice,liquid
+sugarcane juice,liquid
+tender coconut water,liquid
+body lotion,liquid
+liquid,liquid
+rain,liquid
+dew,liquid
+tears,liquid
+sweat,liquid
+saliva,liquid
+gasoline,liquid
+fuel,liquid
+spirit,liquid
+acid,liquid
+milkshake,liquid
+smoothie,liquid
+broth,liquid
+gravy,liquid
+sauce,liquid
+melted ice cream,liquid
+boiled water,liquid
+warm water,liquid
+cold water,liquid
+ice water,liquid
+oxygen gas,gas
+nitrogen gas,gas
+hydrogen gas,gas
+helium gas,gas
+carbon dioxide gas,gas
+lpg gas,gas
+steam from kettle,gas
+fresh air,gas
+cold air,gas
+hot air,gas
+breath air,gas
+marsh gas,gas
+neon gas,gas
+chlorine gas,gas
+ammonia gas,gas
+methane gas,gas
+gas,gas
+vapour,gas
+vapor,gas
+fumes,gas
+gas cylinder,gas
+air in balloon,gas
+air in tyre,gas
+boiling water steam,gas
+kitchen steam,gas
+cooking steam,gas
+hot steam,gas
+bio gas,gas
+gobar gas,gas
+exhaust gas,gas
+smell gas,gas
+gas stove gas,gas

@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Quiz{% endblock %}
+{% block content %}
+<section class="page-head">
+  <h1>Quiz time</h1>
+  <p>Answer 8 short questions about solids, liquids and gases.</p>
+</section>
+<section class="quiz" id="quiz" aria-live="polite">
+  <div class="quiz-start" id="quiz-start">
+    <p class="big-emoji" aria-hidden="true">🧠</p>
+    <button class="btn" id="start-btn" type="button">Start the quiz</button>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/quiz.js') }}"></script>{% endblock %}

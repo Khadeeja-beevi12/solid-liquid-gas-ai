@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Matter Lab{% endblock %} · Solid, Liquid, Gas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="top">
+    <a class="brand" href="{{ url_for('page_learn') }}">🧪 Matter Lab</a>
+    <nav aria-label="Main">
+      <a href="{{ url_for('page_learn') }}" {% if page == 'learn' %}aria-current="page"{% endif %}>Learn</a>
+      <a href="{{ url_for('page_predict') }}" {% if page == 'predict' %}aria-current="page"{% endif %}>Ask the AI</a>
+      <a href="{{ url_for('page_quiz') }}" {% if page == 'quiz' %}aria-current="page"{% endif %}>Quiz</a>
+    </nav>
+    <button id="sound-toggle" class="sound" type="button" aria-pressed="true" aria-label="Sounds on">🔊</button>
+  </header>
+  <main id="main">{% block content %}{% endblock %}</main>
+  <footer class="foot">Class 3 AI activity · The AI learned from a dataset of materials and their properties.</footer>
+  <script src="{{ url_for('static', filename='js/common.js') }}"></script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

@@ -1,0 +1,352 @@
+[
+ {
+  "id": "q1",
+  "question": "🪨 Which state of matter is stone?",
+  "correct": "Solid",
+  "wrong": [
+   "Liquid",
+   "Gas"
+  ],
+  "why": "Stone keeps its own shape, so it is a solid.",
+  "topic": "solid"
+ },
+ {
+  "id": "q2",
+  "question": "🪵 Which state of matter is wood?",
+  "correct": "Solid",
+  "wrong": [
+   "Liquid",
+   "Gas"
+  ],
+  "why": "Wood keeps its own shape, so it is a solid.",
+  "topic": "solid"
+ },
+ {
+  "id": "q3",
+  "question": "🧱 Which state of matter is brick?",
+  "correct": "Solid",
+  "wrong": [
+   "Liquid",
+   "Gas"
+  ],
+  "why": "Brick keeps its own shape, so it is a solid.",
+  "topic": "solid"
+ },
+ {
+  "id": "q4",
+  "question": "🔑 Which state of matter is key?",
+  "correct": "Solid",
+  "wrong": [
+   "Liquid",
+   "Gas"
+  ],
+  "why": "Key keeps its own shape, so it is a solid.",
+  "topic": "solid"
+ },
+ {
+  "id": "q5",
+  "question": "📕 Which state of matter is book?",
+  "correct": "Solid",
+  "wrong": [
+   "Liquid",
+   "Gas"
+  ],
+  "why": "Book keeps its own shape, so it is a solid.",
+  "topic": "solid"
+ },
+ {
+  "id": "q6",
+  "question": "🔩 Which state of matter is iron?",
+  "correct": "Solid",
+  "wrong": [
+   "Liquid",
+   "Gas"
+  ],
+  "why": "Iron keeps its own shape, so it is a solid.",
+  "topic": "solid"
+ },
+ {
+  "id": "q7",
+  "question": "🥛 Which state of matter is milk?",
+  "correct": "Liquid",
+  "wrong": [
+   "Solid",
+   "Gas"
+  ],
+  "why": "Milk flows and can be poured, so it is a liquid.",
+  "topic": "liquid"
+ },
+ {
+  "id": "q8",
+  "question": "🧃 Which state of matter is juice?",
+  "correct": "Liquid",
+  "wrong": [
+   "Solid",
+   "Gas"
+  ],
+  "why": "Juice flows and can be poured, so it is a liquid.",
+  "topic": "liquid"
+ },
+ {
+  "id": "q9",
+  "question": "🫒 Which state of matter is oil?",
+  "correct": "Liquid",
+  "wrong": [
+   "Solid",
+   "Gas"
+  ],
+  "why": "Oil flows and can be poured, so it is a liquid.",
+  "topic": "liquid"
+ },
+ {
+  "id": "q10",
+  "question": "🍯 Which state of matter is honey?",
+  "correct": "Liquid",
+  "wrong": [
+   "Solid",
+   "Gas"
+  ],
+  "why": "Honey flows and can be poured, so it is a liquid.",
+  "topic": "liquid"
+ },
+ {
+  "id": "q11",
+  "question": "🍵 Which state of matter is tea?",
+  "correct": "Liquid",
+  "wrong": [
+   "Solid",
+   "Gas"
+  ],
+  "why": "Tea flows and can be poured, so it is a liquid.",
+  "topic": "liquid"
+ },
+ {
+  "id": "q12",
+  "question": "🌬️ Which state of matter is air?",
+  "correct": "Gas",
+  "wrong": [
+   "Solid",
+   "Liquid"
+  ],
+  "why": "Air spreads out to fill any space, so it is a gas.",
+  "topic": "gas"
+ },
+ {
+  "id": "q13",
+  "question": "🎈 Which state of matter is helium?",
+  "correct": "Gas",
+  "wrong": [
+   "Solid",
+   "Liquid"
+  ],
+  "why": "Helium spreads out to fill any space, so it is a gas.",
+  "topic": "gas"
+ },
+ {
+  "id": "q14",
+  "question": "🫁 Which state of matter is oxygen?",
+  "correct": "Gas",
+  "wrong": [
+   "Solid",
+   "Liquid"
+  ],
+  "why": "Oxygen spreads out to fill any space, so it is a gas.",
+  "topic": "gas"
+ },
+ {
+  "id": "q15",
+  "question": "♨️ Which state of matter is steam?",
+  "correct": "Gas",
+  "wrong": [
+   "Solid",
+   "Liquid"
+  ],
+  "why": "Steam spreads out to fill any space, so it is a gas.",
+  "topic": "gas"
+ },
+ {
+  "id": "q16",
+  "question": "Which one is a SOLID?",
+  "correct": "Pencil",
+  "wrong": [
+   "Orange juice",
+   "Oxygen"
+  ],
+  "why": "A pencil keeps its shape.",
+  "topic": "solid"
+ },
+ {
+  "id": "q17",
+  "question": "Which one is a LIQUID?",
+  "correct": "Milk",
+  "wrong": [
+   "Brick",
+   "Helium"
+  ],
+  "why": "Milk can be poured.",
+  "topic": "liquid"
+ },
+ {
+  "id": "q18",
+  "question": "Which one is a GAS?",
+  "correct": "Air in a balloon",
+  "wrong": [
+   "Water in a glass",
+   "A rubber ball"
+  ],
+  "why": "Air spreads out to fill the whole balloon.",
+  "topic": "gas"
+ },
+ {
+  "id": "q19",
+  "question": "Which state of matter does NOT have its own shape and fills the whole container?",
+  "correct": "Gas",
+  "wrong": [
+   "Solid",
+   "Liquid"
+  ],
+  "why": "Gas particles spread out as far as they can.",
+  "topic": "gas"
+ },
+ {
+  "id": "q20",
+  "question": "Which state of matter keeps its own shape?",
+  "correct": "Solid",
+  "wrong": [
+   "Liquid",
+   "Gas"
+  ],
+  "why": "Solid particles are packed tightly and cannot slide around.",
+  "topic": "solid"
+ },
+ {
+  "id": "q21",
+  "question": "You pour water from a glass into a bowl. What happens to the water?",
+  "correct": "It takes the shape of the bowl",
+  "wrong": [
+   "It stays shaped like the glass",
+   "It disappears"
+  ],
+  "why": "Liquids take the shape of their container.",
+  "topic": "liquid"
+ },
+ {
+  "id": "q22",
+  "question": "What does ice turn into when it melts?",
+  "correct": "Water",
+  "wrong": [
+   "Steam",
+   "Stone"
+  ],
+  "why": "Melting turns a solid into a liquid.",
+  "topic": "changes"
+ },
+ {
+  "id": "q23",
+  "question": "What does water turn into when it boils?",
+  "correct": "Steam",
+  "wrong": [
+   "Ice",
+   "Milk"
+  ],
+  "why": "Boiling turns a liquid into a gas called steam.",
+  "topic": "changes"
+ },
+ {
+  "id": "q24",
+  "question": "What happens when water gets very cold and freezes?",
+  "correct": "It becomes ice",
+  "wrong": [
+   "It becomes steam",
+   "It becomes oil"
+  ],
+  "why": "Freezing turns a liquid into a solid.",
+  "topic": "changes"
+ },
+ {
+  "id": "q25",
+  "question": "Steam on a cold glass lid turns into water drops. This is called...",
+  "correct": "Condensing",
+  "wrong": [
+   "Melting",
+   "Freezing"
+  ],
+  "why": "Condensing turns a gas into a liquid.",
+  "topic": "changes"
+ },
+ {
+  "id": "q26",
+  "question": "Which of these can you squeeze into a smaller space the easiest?",
+  "correct": "Gas",
+  "wrong": [
+   "Solid",
+   "Liquid"
+  ],
+  "why": "Gas particles are far apart, so they can be pushed closer.",
+  "topic": "gas"
+ },
+ {
+  "id": "q27",
+  "question": "Sand pours like water. What is each tiny grain of sand?",
+  "correct": "A solid",
+  "wrong": [
+   "A liquid",
+   "A gas"
+  ],
+  "why": "Every grain keeps its own shape, so sand is made of tiny solids.",
+  "topic": "solid"
+ },
+ {
+  "id": "q28",
+  "question": "What is the liquid we drink every day?",
+  "correct": "Water",
+  "wrong": [
+   "Wood",
+   "Air"
+  ],
+  "why": "Water is a liquid.",
+  "topic": "liquid"
+ },
+ {
+  "id": "q29",
+  "question": "A balloon is filled with helium. Helium is a...",
+  "correct": "Gas",
+  "wrong": [
+   "Solid",
+   "Liquid"
+  ],
+  "why": "Helium is a gas that is lighter than air.",
+  "topic": "gas"
+ },
+ {
+  "id": "q30",
+  "question": "True or false: A solid can be poured like water.",
+  "correct": "False",
+  "wrong": [
+   "True"
+  ],
+  "why": "Solids keep their shape. Only liquids (and tiny grains) pour.",
+  "topic": "solid"
+ },
+ {
+  "id": "q31",
+  "question": "True or false: Air is matter, even though we cannot see it.",
+  "correct": "True",
+  "wrong": [
+   "False"
+  ],
+  "why": "Air takes up space and has weight, so it is matter.",
+  "topic": "gas"
+ },
+ {
+  "id": "q32",
+  "question": "Hot tea in a cup is still a...",
+  "correct": "Liquid",
+  "wrong": [
+   "Solid",
+   "Gas"
+  ],
+  "why": "Hot tea is warm, but it still flows. It is a liquid.",
+  "topic": "liquid"
+ }
+]

@@ -1,0 +1,116 @@
+material,state,temp_c,melting_point_c,boiling_point_c,density_g_cm3,keeps_shape,flows,compressible,emoji,fact
+stone,solid,25,1200,,2.6,1,0,0,🪨,Stone is hard and keeps its shape.
+rock,solid,25,1200,,2.7,1,0,0,🪨,Mountains are made of rock.
+wood,solid,25,,,0.6,1,0,0,🪵,Wood comes from trees.
+iron,solid,25,1538,2862,7.87,1,0,0,🔩,"Iron is a strong, heavy metal."
+gold,solid,25,1064,2856,19.3,1,0,0,🥇,Gold is shiny and very heavy.
+silver,solid,25,962,2162,10.5,1,0,0,🥈,Silver is a shiny metal used in jewellery.
+copper,solid,25,1085,2562,8.96,1,0,0,🪙,Electric wires are often made of copper.
+aluminium,solid,25,660,2519,2.7,1,0,0,🥫,Aluminium is light and used for cans and foil.
+lead,solid,25,327,1749,11.34,1,0,0,,"Lead is a soft, heavy metal."
+zinc,solid,25,420,907,7.14,1,0,0,,
+tin,solid,25,232,2602,7.3,1,0,0,,
+nickel,solid,25,1455,2913,8.9,1,0,0,,
+steel,solid,25,1450,,7.85,1,0,0,🔧,Steel is iron made even stronger.
+brass,solid,25,930,,8.5,1,0,0,🔔,Bells and keys are often made of brass.
+diamond,solid,25,3550,4827,3.5,1,0,0,💎,Diamond is the hardest natural solid.
+coal,solid,25,,,1.3,1,0,0,⚫,Coal is a black rock that burns.
+salt,solid,25,801,1413,2.16,1,1,0,🧂,Salt is made of tiny solid crystals.
+sugar,solid,25,186,,1.59,1,1,0,🍬,Sugar grains are tiny solids.
+sand,solid,25,1700,2230,1.6,1,1,0,🏖️,Sand pours like water but each grain is a solid.
+chalk,solid,25,825,,2.7,1,0,0,🖍️,Chalk is a soft solid we write with.
+marble,solid,25,825,,2.7,1,0,0,,
+glass,solid,25,1400,,2.5,1,0,0,🪟,Glass is hard but can break.
+brick,solid,25,1000,,1.9,1,0,0,🧱,Houses are built with bricks.
+cement,solid,25,,,3.1,1,0,0,,
+concrete,solid,25,,,2.4,1,0,0,🏗️,Concrete is a very hard building material.
+clay,solid,25,,,1.8,1,0,0,🏺,Clay is used to make pots.
+ceramic,solid,25,1600,,2.4,1,0,0,,
+paper,solid,25,,,0.8,1,0,0,📄,Paper is made from wood.
+cloth,solid,25,,,1.5,1,0,0,👕,Clothes are made of cloth.
+cotton,solid,25,,,0.3,1,0,1,🧶,Cotton is soft and fluffy.
+wool,solid,25,,,1.3,1,0,1,🧶,Wool comes from sheep.
+leather,solid,25,,,0.9,1,0,0,👜,
+rubber,solid,25,,,1.1,1,0,0,⚽,Rubber bounces back when you press it.
+plastic,solid,25,130,,1.0,1,0,0,🧸,Many toys are made of plastic.
+bone,solid,25,,,1.9,1,0,0,🦴,
+cork,solid,25,,,0.24,1,0,0,,Cork is so light it floats.
+sponge,solid,25,,,0.05,1,0,1,🧽,A sponge is a solid you can squeeze.
+bread,solid,25,,,0.25,1,0,1,🍞,
+rice,solid,25,,,0.85,1,1,0,🍚,Each grain of rice is a small solid.
+flour,solid,25,,,0.6,1,1,0,🌾,
+soap,solid,25,50,,1.0,1,0,0,🧼,
+wax,solid,25,55,370,0.9,1,0,0,🕯️,Candle wax is solid until it gets hot.
+crayon,solid,25,55,,0.95,1,0,0,🖍️,
+butter,solid,25,32,,0.91,1,0,0,🧈,Butter melts if it is warm.
+chocolate,solid,25,34,,1.3,1,0,0,🍫,Chocolate melts in your hand!
+coin,solid,25,1400,,8.0,1,0,0,🪙,
+key,solid,25,930,,8.5,1,0,0,🔑,
+spoon,solid,25,1450,,7.85,1,0,0,🥄,
+book,solid,25,,,0.7,1,0,0,📕,
+pencil,solid,25,,,0.7,1,0,0,✏️,
+eraser,solid,25,,,1.2,1,0,0,,
+ice,solid,-10,0,100,0.92,1,0,0,🧊,Ice is water that has frozen solid.
+ice cube,solid,-5,0,100,0.92,1,0,0,🧊,An ice cube melts into water.
+snow,solid,-5,0,100,0.3,1,0,1,❄️,Snow is frozen water.
+hail,solid,-2,0,100,0.9,1,0,0,🌨️,Hail falls as little balls of ice.
+water,liquid,25,0,100,1.0,0,1,0,💧,Water is the liquid we drink every day.
+milk,liquid,25,-0.5,100,1.03,0,1,0,🥛,
+juice,liquid,25,-1,100,1.05,0,1,0,🧃,
+oil,liquid,25,-10,300,0.92,0,1,0,🫒,Oil floats on water.
+honey,liquid,25,-10,120,1.42,0,1,0,🍯,Honey flows very slowly.
+tea,liquid,25,-0.5,100,1.0,0,1,0,🍵,
+coffee,liquid,25,-0.5,100,1.0,0,1,0,☕,
+vinegar,liquid,25,-2,100,1.01,0,1,0,,
+petrol,liquid,25,-60,150,0.74,0,1,0,⛽,Petrol is a fuel for cars.
+diesel,liquid,25,-10,300,0.83,0,1,0,⛽,
+kerosene,liquid,25,-30,200,0.8,0,1,0,,
+mercury,liquid,25,-39,357,13.5,0,1,0,🌡️,Mercury is a metal that is a liquid!
+alcohol,liquid,25,-114,78,0.79,0,1,0,,
+shampoo,liquid,25,-2,100,1.02,0,1,0,🧴,
+ink,liquid,25,0,100,1.05,0,1,0,🖋️,
+blood,liquid,25,-0.5,100,1.06,0,1,0,🩸,
+lemon juice,liquid,25,-2,100,1.04,0,1,0,🍋,
+cold drink,liquid,25,-1,100,1.04,0,1,0,🥤,
+sea water,liquid,25,-2,101,1.025,0,1,0,🌊,Sea water is salty.
+rain water,liquid,25,0,100,1.0,0,1,0,🌧️,
+syrup,liquid,25,-5,105,1.3,0,1,0,,
+lemonade,liquid,25,-1,100,1.03,0,1,0,🍋,
+liquid soap,liquid,25,-2,100,1.05,0,1,0,🧴,
+bromine,liquid,25,-7,59,3.1,0,1,0,,
+hand sanitizer,liquid,25,-20,80,0.85,0,1,0,🧴,
+glycerine,liquid,25,18,290,1.26,0,1,0,,
+soup,liquid,25,-1,100,1.03,0,1,0,🍲,
+perfume,liquid,25,-90,80,0.85,0,1,0,,
+coconut water,liquid,25,-1,100,1.02,0,1,0,🥥,
+hot tea,liquid,70,-0.5,100,1.0,0,1,0,🍵,Hot tea is still a liquid.
+hot milk,liquid,70,-0.5,100,1.03,0,1,0,🥛,
+hot water,liquid,60,0,100,1.0,0,1,0,♨️,
+melted butter,liquid,45,32,,0.91,0,1,0,🧈,Warm butter turns into a liquid.
+melted chocolate,liquid,45,34,,1.3,0,1,0,🍫,
+melted wax,liquid,70,55,370,0.9,0,1,0,🕯️,Hot wax is a liquid.
+melted ice,liquid,5,0,100,1.0,0,1,0,💧,Melted ice is just water.
+air,gas,25,-213,-194,0.0012,0,0,1,🌬️,Air is all around us.
+oxygen,gas,25,-218,-183,0.00143,0,0,1,🫁,We breathe in oxygen.
+nitrogen,gas,25,-210,-196,0.00125,0,0,1,,Most of the air is nitrogen.
+hydrogen,gas,25,-259,-253,9e-05,0,0,1,,Hydrogen is the lightest gas.
+helium,gas,25,-272,-269,0.00018,0,0,1,🎈,Helium makes balloons float.
+carbon dioxide,gas,25,-78,-78,0.00198,0,0,1,🫧,Fizzy drinks have carbon dioxide bubbles.
+methane,gas,25,-182,-162,0.00066,0,0,1,,
+lpg,gas,25,-188,-42,0.002,0,0,1,🔥,LPG is the gas in a cooking cylinder.
+neon,gas,25,-249,-246,0.0009,0,0,1,,
+argon,gas,25,-189,-186,0.00178,0,0,1,,
+chlorine,gas,25,-101,-34,0.0032,0,0,1,,
+ammonia,gas,25,-78,-33,0.00077,0,0,1,,
+natural gas,gas,25,-182,-162,0.0008,0,0,1,,
+ozone,gas,25,-192,-112,0.002,0,0,1,,
+laughing gas,gas,25,-91,-88,0.0018,0,0,1,,
+propane,gas,25,-188,-42,0.0019,0,0,1,,
+butane,gas,25,-138,-1,0.0024,0,0,1,,
+carbon monoxide,gas,25,-205,-192,0.0012,0,0,1,,
+sulphur dioxide,gas,25,-72,-10,0.0027,0,0,1,,
+wind,gas,25,-213,-194,0.0012,0,0,1,💨,Wind is moving air.
+steam,gas,110,0,100,0.0006,0,0,1,♨️,Steam is water that has boiled into a gas.
+water vapour,gas,105,0,100,0.0006,0,0,1,☁️,Water vapour is water as an invisible gas.
+cooking gas,gas,25,-188,-42,0.002,0,0,1,🔥,
+balloon gas,gas,25,-272,-269,0.00018,0,0,1,🎈,

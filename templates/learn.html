@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}Learn{% endblock %}
+{% block content %}
+<section class="hero">
+  <div class="hero-text">
+    <h1>Is it a solid, a liquid or a gas?</h1>
+    <p>Everything around you is one of these three. Slide the heat and watch the tiny particles change how they move.</p>
+    <a class="btn" href="{{ url_for('page_predict') }}" data-sfx="click">Ask the AI about a material</a>
+  </div>
+  <div class="heat" id="heat" data-state="liquid">
+    <canvas id="hero-canvas" aria-label="Particles moving in a box" role="img"></canvas>
+    <div class="heat-readout"><strong id="heat-name">Water</strong> is a <strong id="heat-state">liquid</strong> at <span id="heat-temp">25</span> °C</div>
+    <label for="heat-slider" class="heat-label">Temperature</label>
+    <input id="heat-slider" type="range" min="-20" max="120" value="25" step="1">
+    <div class="heat-scale"><span>❄️ cold</span><span>hot ♨️</span></div>
+  </div>
+</section>
+
+<div id="learn-content" aria-live="polite"><p class="loading">Loading the lesson…</p></div>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/learn.js') }}"></script>{% endblock %}

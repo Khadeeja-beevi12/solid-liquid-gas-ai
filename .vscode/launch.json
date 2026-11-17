@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run website (Flask)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/app.py",
+      "env": { "FLASK_DEBUG": "1" },
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Train the AI",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "src.train",
+      "console": "integratedTerminal"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Solid, Liquid, Gas",
+  "definition": {
+    "heading": "What is matter?",
+    "text": "Everything around us is made of matter. Matter is anything that takes up space and has weight. Matter comes in three main states: solid, liquid and gas. The tiny particles inside matter move in different ways in each state."
+  },
+  "states": [
+    {
+      "id": "solid", "name": "Solid", "emoji": "🧊",
+      "summary": "A solid has its own shape and its own size.",
+      "explain": "The tiny particles in a solid are packed close together and can only wiggle in place. That is why a solid does not change shape when you put it in a different container.",
+      "properties": ["Keeps its own shape", "Has a fixed size (volume)", "Cannot be poured", "Hard to squeeze"],
+      "examples": [["🪨", "stone"], ["🪵", "wood"], ["🧊", "ice"], ["📕", "book"], ["🔑", "key"], ["🧱", "brick"]],
+      "try_it": "Put a pencil in a box and then in a bag. Does the pencil change its shape?"
+    },
+    {
+      "id": "liquid", "name": "Liquid", "emoji": "💧",
+      "summary": "A liquid flows and takes the shape of its container.",
+      "explain": "The particles in a liquid are close together but they slide past each other. That is why a liquid can be poured and always has a flat top surface.",
+      "properties": ["Flows and can be poured", "Takes the shape of its container", "Has a fixed size (volume)", "Hard to squeeze"],
+      "examples": [["💧", "water"], ["🥛", "milk"], ["🧃", "juice"], ["🫒", "oil"], ["🍯", "honey"], ["🍵", "tea"]],
+      "try_it": "Pour the same water into a glass and then into a bowl. What happens to its shape?"
+    },
+    {
+      "id": "gas", "name": "Gas", "emoji": "💨",
+      "summary": "A gas spreads out and fills all the space it can.",
+      "explain": "The particles in a gas are far apart and zoom around very fast. A gas has no shape and no fixed size. It fills a balloon, a ball or a whole room.",
+      "properties": ["Spreads out everywhere", "Has no shape of its own", "Has no fixed size", "Can be squeezed smaller"],
+      "examples": [["🌬️", "air"], ["🎈", "helium"], ["♨️", "steam"], ["🫁", "oxygen"], ["🔥", "lpg"], ["💨", "wind"]],
+      "try_it": "Blow up a balloon. The air inside spreads to fill the whole balloon!"
+    }
+  ],
+  "changes": [
+    ["🧊", "Melting", "A solid turns into a liquid when it is heated. Ice melts into water."],
+    ["♨️", "Boiling", "A liquid turns into a gas when it is heated a lot. Water boils into steam."],
+    ["❄️", "Freezing", "A liquid turns into a solid when it gets very cold. Water freezes into ice."],
+    ["☁️", "Condensing", "A gas turns into a liquid when it cools. Steam on a cold lid becomes water drops."]
+  ]
+}

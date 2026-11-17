@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}Ask the AI{% endblock %}
+{% block content %}
+<section class="page-head">
+  <h1>Ask the AI</h1>
+  <p>Type the name of a material. The AI will guess if it is a solid, a liquid or a gas.</p>
+</section>
+
+<section class="ask">
+  <form id="ask-form" autocomplete="off">
+    <label for="material">Material name</label>
+    <div class="ask-row">
+      <input id="material" name="material" type="text" maxlength="60" list="material-list" placeholder="for example: water" required>
+      <button class="btn" type="submit">Ask the AI</button>
+    </div>
+    <datalist id="material-list"></datalist>
+  </form>
+  <p class="try-label">Or try one of these:</p>
+  <div class="chips" id="chips"></div>
+
+  <div id="result" class="result" hidden aria-live="polite"></div>
+  <div id="history-wrap" hidden>
+    <h2>Things you tried</h2>
+    <ul id="history" class="history"></ul>
+  </div>
+</section>
+
+<section class="teacher">
+  <details id="metrics-box">
+    <summary>How good is the AI? (for teachers and curious students)</summary>
+    <div id="metrics"><p class="loading">Loading scores…</p></div>
+  </details>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/predict.js') }}"></script>{% endblock %}
